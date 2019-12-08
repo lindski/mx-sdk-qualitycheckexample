@@ -1,0 +1,8 @@
+node_modules/
+typings/
+build/*
+*nbproject
+.vscode/
+reference/
+out/*
+src/config.json
